@@ -36,6 +36,10 @@ export const Content = styled.div`
     flex-direction: column;
     align-items: center;
     gap: 2rem;
+
+    @media screen and (max-width: 1000px) {
+      padding: 10rem 1rem;
+    }
   `}
 `;
 
@@ -56,6 +60,11 @@ export const Title = styled.h2`
     &.center {
       text-align: center;
     }
+
+    @media screen and (max-width: 1000px) {
+      width: 100%;
+      padding: 0 2rem;
+    }
   `}
 `;
 
@@ -66,6 +75,11 @@ export const Subtitle = styled.h3`
     letter-spacing: 2px;
     font-size: 1.5rem;
     color: ${theme.colors.shape()};
+
+    @media screen and (max-width: 1000px) {
+      width: 100%;
+      padding: 0 2rem;
+    }
   `}
 `;
 
@@ -83,6 +97,11 @@ export const Paragraph = styled.p`
     & > b {
       color: ${theme.colors.shape()};
     }
+
+    @media screen and (max-width: 1000px) {
+      width: 100%;
+      padding: 0 2rem;
+    }
   `}
 `;
 
@@ -96,10 +115,31 @@ export const List = styled.ul`
   display: flex;
   flex-direction: column;
   gap: 1rem;
+
+  @media screen and (max-width: 1000px) {
+    width: 100%;
+    padding: 0 0 0 3rem;
+  }
 `;
 
 export const Item = styled.li`
   ${({ theme }) => css`
     color: ${theme.colors.shape()};
+  `}
+`;
+
+export const CImage = styled(Image)`
+  ${({ theme }) => css`
+    border: 5px solid ${theme.colors.primary(0)};
+    outline: 2px solid ${theme.colors.primary()};
+    object-fit: cover;
+    object-position: center;
+    margin-top: 2rem;
+    border-radius: 3px;
+
+    @media screen and (max-width: 1000px) {
+      width: 100%;
+      height: auto;
+    }
   `}
 `;

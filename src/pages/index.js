@@ -1,7 +1,8 @@
-import Banner from "@/components/Banner";
 import Head from "next/head";
 import * as S from "@/styles";
+import Banner from "@/components/Banner";
 import Document from "@/components/Document";
+import Search from "@/components/Search";
 
 export default function Home() {
   return (
@@ -15,6 +16,7 @@ export default function Home() {
         <link rel="preconnect" href="https://fonts.gstatic.com" />
         <link rel="icon" type="image/png" href="/favicon.png" />
       </Head>
+      <Search />
       <Banner />
       <Document />
     </>

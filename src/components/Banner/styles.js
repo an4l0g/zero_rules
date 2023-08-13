@@ -9,6 +9,7 @@ export const Container = styled.section`
     background-attachment: fixed;
     width: 100%;
     height: 100vh;
+    position: relative;
   `}
 `;
 
@@ -52,6 +53,7 @@ export const ScrollIndicator = styled.div`
     border-radius: 20px;
     display: flex;
     justify-content: center;
+    cursor: pointer;
   `}
 `;
 
@@ -76,4 +78,11 @@ export const Indicator = styled.div`
     top: 5px;
     animation: ${ScrollIndicatorAnimation} 2s linear infinite;
   `}
+`;
+
+export const Logo = styled(Image)`
+  @media screen and (max-width: 600px) {
+    width: 70%;
+    height: auto;
+  }
 `;
