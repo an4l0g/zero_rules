@@ -39,6 +39,15 @@ function Document() {
               )}
             </>
           ))}
+          <S.Footer>
+          <S.Logo src="/logo.png" width={150} height={56} />
+          <S.Description>
+            Regras da <b>Zero City</b> <br />
+            Todos os direitos reservados®
+          </S.Description>
+
+
+          </S.Footer>
         </S.Content>
       </S.Filter>
     </S.Document>

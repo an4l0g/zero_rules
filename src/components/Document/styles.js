@@ -143,3 +143,25 @@ export const CImage = styled(Image)`
     }
   `}
 `;
+
+export const Footer = styled.div`
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+`;
+
+export const Logo = styled(Image)`
+  
+`;
+
+export const Description = styled.p`
+  ${({ theme }) => css`  
+    font-size: 1rem;
+    color: ${theme.colors.shape()};
+    text-align: center;
+    &>b{
+    color: ${theme.colors.primary()};
+    
+    }
+`}
+`;
