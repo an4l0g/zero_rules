@@ -14,10 +14,10 @@ const rules = [
       {
         content: (
           <>
-            Seu apelido no Discord deve seguir o padrão pré-estabelecido: <br />
+            Seu apelido no Discord deve seguir o padrão pré-estabelecido pela <b>EQUIPE ZERO</b>: <br />
             <br />
             Nome Sobrenome | ID <br />
-            (Ex: An4log Zero | 1)
+            <i>(Ex: An4log Zero | 1)</i>
           </>
         ),
       },
@@ -25,8 +25,8 @@ const rules = [
         content: (
           <>
             É <b>proibido</b> fazer qualquer tipo de divulgação, autopromoção,
-            publicações ofensivas ou relacionadas a outros servidores. Sujeito à
-            advertência e/ou banimento.
+            publicações ofensivas ou relacionadas a outros servidores. <b>Sujeito à
+            advertência e/ou banimento</b>.
           </>
         ),
       },
@@ -34,7 +34,7 @@ const rules = [
         content: (
           <>
             É <b>proibido</b> utilizar os canais respectivos para fins aos quais
-            eles não foram destinados. Sujeito à advertência.
+            eles não foram destinados. <b>Sujeito à advertência</b>.
           </>
         ),
       },

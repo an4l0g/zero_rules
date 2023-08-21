@@ -2,7 +2,7 @@ import * as S from "../styles";
 
 const rules = [
   {
-    title: "Zona de assalto",
+    title: "Regras de Assalto",
     rules: [
       {
         content: (
@@ -24,7 +24,14 @@ const rules = [
         content: (
           <>
             Sempre ao dar uma voz de assalto, verifique se o nível de voz do seu
-            personagem está no "GRITANDO".
+            personagem está no <b>"GRITANDO"</b>.
+          </>
+        ),
+      },
+      {
+        content: (
+          <>
+            É <b>terminantemente proibido</b> assaltar paramédicos e mecânicos.
           </>
         ),
       },

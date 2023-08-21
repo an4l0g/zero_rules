@@ -12,11 +12,11 @@ function Search() {
 
   useEffect(() => {
     function handleKeyDown(event) {
-      if (event.ctrlKey && event.key === "f") {
-        event.preventDefault();
-        setShow(true);
-        inputRef.current.focus();
-      }
+      // if (event.ctrlKey && event.key === "f") {
+      //   event.preventDefault();
+      //   setShow(true);
+      //   inputRef.current.focus();
+      // }
 
       if (event.key === "Escape") {
         event.preventDefault();

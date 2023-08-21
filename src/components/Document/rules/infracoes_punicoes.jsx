@@ -7,7 +7,7 @@ const rules = [
       {
         content: (
           <>
-            <b>Power Gaming (PG): </b> É a prática de abusar das mecânicas e
+            <b>Power Gaming (PG): </b> é a prática de abusar das mecânicas e
             bugs do jogo para se beneficiar ou adquirir vantagem sobre o
             adversário. <b>Exemplos:</b>
           </>
@@ -21,12 +21,7 @@ const rules = [
             </S.Item>
             <S.Item>
               <S.Paragraph>
-                Atirar enquanto estiver executando alguma animação;
-              </S.Paragraph>
-            </S.Item>
-            <S.Item>
-              <S.Paragraph>
-                Capotar o veículo durante uma fuga e não se render.
+                Atirar enquanto estiver executando alguma animação.
               </S.Paragraph>
             </S.Item>
           </S.List>,
@@ -35,7 +30,7 @@ const rules = [
       {
         content: (
           <>
-            <b>Meta Gaming: </b> Trata-se de utilizar de informações recebidas
+            <b>Meta Gaming: </b> trata-se de utilizar de informações recebidas
             fora do roleplay (discord, stream, chat da stream etc.) dentro do
             jogo.
           </>
@@ -44,7 +39,7 @@ const rules = [
       {
         content: (
           <>
-            <b>Vehicle Deathmatch (VDM): </b> É o ato de utilizar veículos como
+            <b>Vehicle Deathmatch (VDM): </b> é o ato de utilizar veículos como
             arma para matar ou atropelar alguém.
           </>
         ),
@@ -52,7 +47,7 @@ const rules = [
       {
         content: (
           <>
-            <b>Random Deathmatch (RDM): </b> Consiste em matar outro jogador
+            <b>Random Deathmatch (RDM): </b> consiste em matar outro jogador
             apenas pelo simples desejo de matar, sem motivo plausível. Toda
             morte deve haver um motivo real para ambas as partes.
           </>
@@ -61,17 +56,17 @@ const rules = [
       {
         content: (
           <>
-            <b>Combat Logging (CL): </b> É deslogar durante uma ação em que você
-            esteja participando direta ou indiretamente. Outra ação que pode ser
-            considerada CL é deslogar para que uma ação não aconteça.
+            <b>Combat Logging (CL): </b> é deslogar durante uma ação em que o cidadão
+            esteja participando direta ou indiretamente. Outro ato que pode ser
+            considerado CL é deslogar para que uma ação não aconteça.
           </>
         ),
         extras: [
           <S.Paragraph>
             <b>
               Atenção! Em caso de crash em uma ação em que o PvP já tenha sido
-              iniciado, o jogador deve voltar para o servidor e sair da ação
-              imediatamente. O jogador deverá também reportar o crash no canal
+              iniciado, o cidadão deve voltar para o servidor e sair da ação
+              imediatamente. O cidadão deverá, também, reportar o crash no canal
               específico no discord.{" "}
             </b>
           </S.Paragraph>,
@@ -80,7 +75,7 @@ const rules = [
       {
         content: (
           <>
-            <b>Power RP (Forçar RP): </b> Consiste em você forçar roleplay com
+            <b>Power RP (Forçar RP): </b> consiste em forçar roleplay com
             alguém. <b>Exemplos:</b>
           </>
         ),
@@ -102,9 +97,9 @@ const rules = [
       {
         content: (
           <>
-            <b>Dark RP: </b> Consiste em praticar um roleplay com contexto
+            <b>Dark RP: </b> consiste em praticar roleplay com contexto
             pesado, como por exemplo assédio, estupro, racismo, tortura,
-            homofobia etc. (passível de banimento):
+            homofobia etc <b>(passível de banimento)</b>:
           </>
         ),
         extras: [
@@ -119,9 +114,9 @@ const rules = [
             </S.Item>
             <S.Item>
               <S.Paragraph>
-                <b>Estupro:</b> é um tipo de agressão sexual geralmente
-                envolvendo relação sexual ou outras formas de atos libidinosos
-                realizados contra uma pessoa sem o seu consentimento;
+                <b>Estupro:</b> é um tipo de agressão sexual
+                envolvendo relação sexual ou outras formas de atos libidinosos,
+                realizados contra uma pessoa, sem o seu consentimento;
               </S.Paragraph>
             </S.Item>
             <S.Item>
@@ -150,8 +145,8 @@ const rules = [
       {
         content: (
           <>
-            <b>Blacklist: </b> Após sair de uma organização, você ficará em uma
-            "lista negra" <b>por 7 dias</b>. Durante este período você não
+            <b>Blacklist: </b> após sair de uma organização, o cidadão ficará em uma
+            "lista negra" <b>por 7 dias</b>. Durante este período, o cidadão não
             poderá ser contratado por outra organização.
           </>
         ),
@@ -159,17 +154,16 @@ const rules = [
       {
         content: (
           <>
-            <b>Revenge Kill: </b> Caso morra e alguém veja o que aconteceu, a
-            pessoa pode te lembrar brevemente do ocorrido, porém, é proibido
-            você se vingar de quem te matou ou de qualquer outra pessoa que
-            esteve na ação.
+            <b>Revenge Kill: </b> caso morra e alguém veja o que aconteceu, a
+            pessoa pode te lembrar brevemente do ocorrido, porém, é proibida a 
+            vingança contra quem matou e/ou qualquer pessoa presente na ação.
           </>
         ),
       },
       {
         content: (
           <>
-            <b>Anti RP: </b> Infringir regras com o propósito de estragar o RP
+            <b>Anti RP: </b> infringir regras com o propósito de estragar o RP
             de outros jogadores. <b>Exemplos:</b>
           </>
         ),
@@ -182,15 +176,15 @@ const rules = [
             </S.Item>
             <S.Item>
               <S.Paragraph>
-                É proibido olhar o nome do jogador no /id para identificar o
+                Olhar o nome do jogador no /id para identificar o
                 player;
               </S.Paragraph>
             </S.Item>
             <S.Item>
               <S.Paragraph>
-                Será considerado o anti-rp qualquer atitude que foge da dinâmica
+                Qualquer atitude que foge da dinâmica
                 ou regras do roleplay, ou seja, toda conduta considerada fora do
-                que a pessoa faria na vida real se enquadra na infração.
+                que a pessoa faria na vida real.
               </S.Paragraph>
             </S.Item>
           </S.List>,
@@ -199,18 +193,27 @@ const rules = [
       {
         content: (
           <>
-            <b>Flaming: </b> Flaming, é o ato de inflamar alguma situação ou a
-            pessoa de forma negativa, incitando o ódio, acusações, ofensas,
-            ameaças, abusos etc., contra algo ou alguém.
+            <b>Amor à Vida: </b> é o ato de preservar a sua vida como se fosse única,
+            evitando conflitos desnecessários e ações que colocariam a sua vida em risco
+            no mundo real. Ir em contradição a isso é considerado <i>anti amor à vida</i>.
           </>
         ),
       },
       {
         content: (
           <>
-            <b>Cop Baiting: </b> Será considerado cop baiting qualquer atitude
+            <b>Flaming: </b> flaming, é o ato de inflamar alguma situação ou a
+            pessoa de forma negativa, incitando o ódio, acusações, ofensas,
+            ameaças, abusos etc, contra algo ou alguém.
+          </>
+        ),
+      },
+      {
+        content: (
+          <>
+            <b>Cop Baiting: </b> é qualquer atitude
             que tenha finalidade de enganar, trapacear e/ou emboscar alguém de
-            forma desonesta e desonrosa visando apenas o benefício próprio ou de
+            forma desonesta e desonrosa, visando apenas o benefício próprio ou de
             outrem.
           </>
         ),
@@ -219,10 +222,20 @@ const rules = [
         content: (
           <>
             <b>Car parking: </b> Car parking é o ato de manter o veículo
-            estacionado em cima de outro jogador propositalmente, pular de um
-            veículo em movimento para o veículo matar ou bater em algum jogador
-            e o ato de bloquear entradas e saídas de portas, como por exemplo:
+            estacionado em cima de outro jogador propositalmente e o ato de bloquear entradas e saídas de portas, como por exemplo:
             dos bancos, lojas de conveniências, lojas de roupas, entre outros.
+          </>
+        ),
+      },
+      {
+        content: (
+          <>
+            Na <b>ZERO CITY</b>, o <b>banimento</b> será dado apenas para players que sejam identificados utilizando cheaters. Para qualquer
+            outra infração grave da regra, em que o player necessite ser punido de forma mais severa, ele será encaminhado ao <b>manicômio</b> da
+            cidade. <br />
+            <br />
+            O manicômio funciona de forma semelhante a uma prisão, no entanto, não há formas de diminuir a pena e a quantidade de tempo em que o 
+            player poderá ficar por lá será maior que o tempo de uma prisão comum.
           </>
         ),
       },

@@ -40,7 +40,7 @@ const rules = [
             Havendo aprovação na whitelist (WL), você autoriza o direito de uso
             de imagem e voz para a produção de conteúdos audiovisuais
             publicitários e materiais que serão utilizados nas redes sociais da{" "}
-            <b>Zero City</b>.
+            <b>ZERO CITY</b>.
           </>
         ),
       },
@@ -62,9 +62,8 @@ const rules = [
         ),
         extras: [
           <S.List>
-            <S.Item>Se comunicar via rádio estando algemado;</S.Item>
-            <S.Item>Atirar enquanto estiver executando alguma animação;</S.Item>
-            <S.Item>Capotar o veículo durante uma fuga e não se render.</S.Item>
+            <S.Item><S.Paragraph>Se comunicar via rádio estando algemado;</S.Paragraph></S.Item>
+            <S.Item><S.Paragraph>Atirar enquanto estiver executando alguma animação.</S.Paragraph></S.Item>
           </S.List>,
         ],
       },
@@ -73,7 +72,7 @@ const rules = [
           <>
             É <b>proibido</b> sair do personagem enquanto estiver na cidade.
             Esta é uma forma de garantirmos a imersão dos nossos players e uma
-            ótima experiência de Roleplay.
+            ótima experiência de roleplay.
           </>
         ),
       },
@@ -81,7 +80,7 @@ const rules = [
         content: (
           <>
             É <b>proibido</b> fazer chamados para emboscar policiais, mecânicos,
-            médicos e membros do Zero Fome. Atos deste cunho serão considerados
+            médicos e membros do <i>Zero Fome</i>. Atos deste cunho serão considerados
             cop-bait e os responsáveis estarão sujeitos à advertência.
           </>
         ),
@@ -93,7 +92,7 @@ const rules = [
             seja ele de assalto, sequestro, interrogatório e entre outros. Uma
             vez que a pessoa foi desmaiada, ela está automaticamente fora da
             ação e só poderá ser reanimada por algum membro do{" "}
-            <b>Centro Médico Zero</b> após a ação ser finalizada.
+            <b>Centro Médico Zero</b>, após a ação ser finalizada.
           </>
         ),
       },
@@ -101,7 +100,7 @@ const rules = [
         content: (
           <>
             Após um desmaio, o habitante em questão deverá esquecer todo o
-            ocorrido dos últimos <b>30 minutos</b> de RP mesmo que seja
+            ocorrido dos últimos <b>30 minutos</b> de RP, mesmo que seja
             reanimado.
           </>
         ),
@@ -111,16 +110,16 @@ const rules = [
           <>
             Todas as informações utilizadas durante o desenvolvimento de uma
             história devem ter sido adquiridas dentro do jogo. Informações
-            adquiridas fora do jogo utilizadas para o desenvolvimento de uma
-            história serão consideradas <b>Meta Gaming</b> em que seu
-            responsável estará sujeito à advertência.
+            adquiridas fora do jogo e utilizadas para o desenvolvimento de uma
+            história serão consideradas <b>Meta Gaming</b> e o
+            responsável estará sujeito a sanções disciplinares.
           </>
         ),
       },
       {
         content: (
           <>
-            É <b>proibido</b> o uso de adereços que remetem à policiais, médicos
+            É <b>proibido</b> o uso de adereços que sejam de uso exclusivo dos policiais, médicos
             e mecânicos.
           </>
         ),
@@ -137,7 +136,7 @@ const rules = [
         content: (
           <>
             É <b>proibido</b> qualquer tipo de comércio, dentro ou fora do
-            servidor por dinheiro real. Neste caso, o jogador responsável será
+            servidor, por dinheiro real. Neste caso, o jogador responsável será
             permanentemente banido e todos os itens comercializados serão
             apagados da cidade. Vale salientar que o <b>ZERO GROUP</b> não irá
             ressarcir o jogador que efetuou a compra.
@@ -147,9 +146,9 @@ const rules = [
       {
         content: (
           <>
-            O Roleplay é a simulação da vida real. Pensando nisso, todas as
-            ações do seu personagem dentro da cidade são de sua
-            responsabilidade.
+            O roleplay é a simulação da vida real e, por consequência, todas as
+            ações de um personagem dentro da cidade são de inteira
+            responsabilidade de quem o controla.
           </>
         ),
       },
@@ -168,8 +167,8 @@ const rules = [
             É <b>proibido</b> qualquer ato de distribuição de dinheiro como:
             sorteios e premiações. Estes atos podem ser considerados manipulação
             da economia e, em caso de comprovação, poderá resultar em punição.
-            Caso queira efetuar um sorteio, entre em contato com a staff através
-            do ticket e auxiliaremos.
+            Caso queira efetuar um sorteio, entre em contato com a <b>EQUIPE ZERO</b>, através
+            do ticket.
           </>
         ),
       },
@@ -195,7 +194,42 @@ const rules = [
           <>
             É <b>proibido</b> reconhecer alguém que esteja de máscara e
             modificador de voz desde que não seja possível reconhecer por outros
-            meios fornecidos dentro do RP.
+            meios fornecidos dentro da cidade.
+          </>
+        ),
+      },
+      {
+        content: (
+          <>
+            Ao entrar na área residencial de outro cidadão, sem a devida permissão dada pelo dono da resdiência, o invasor está sujeito a ser alvejado.
+          </>
+        ),
+      },
+      {
+        content: (
+          <>
+            É <b>terminantemente proibido</b> entrar na praça utilizando qualquer veículo 
+            existente na cidade.
+          </>
+        ),
+      },
+      {
+        content: (
+          <>
+            Ao entrar em qualquer emprego legal da cidade (polícia, hospital ou mecânica), o player assina um contrato de permanência de, no mínimo, 30 dias.
+            Caso decida quebrar o contrato de permanência, o player estará sujeito a uma multa de R$100.000,00 e 1440 (24 horas) no <b>manicômio</b> da cidade.
+          </>
+        ),
+      },
+      {
+        content: (
+          <>
+            O uso de arma de fogo <b>não é restrito</b> e as facções e organizações ilegais poderão usufruir de armas da equipe policial, caso as consiga
+            de alguma forma dentro do roleplay, assim como a polícia também poderá utilizar as armas destinadas ao ilegal da cidade, caso as consiga de alguma forma
+            dentro do roleplay.<br />
+            <br />
+            <b>Atenção! A polícia não está autorizada a enviar, vender e/ou doar armas para qualquer outro cidadão, principalmente para membros de facções ou
+              organizações ilegais. Em caso de descumprimento, os players envolvidos sofrerão PD de personagem <i>(item 12)</i>.</b>
           </>
         ),
       },
