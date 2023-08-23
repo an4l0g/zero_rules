@@ -59,6 +59,13 @@ const rules = [
         ),
       },
       {
+        content: (
+          <>
+            É <b>terminantemente proibido</b> sequestrar paramédicos e mecânicos em serviço.
+          </>
+        ),
+      },
+      {
         content: <> Nas negociações, as exigências devem seguir como exposto abaixo: </>,
         extras: [
           <>
@@ -82,7 +89,7 @@ const rules = [
                 <br />
                 *Apenas para ações de <b>banco central</b> e <b>joaelheria</b>. <br />
                 <br />
-                <b>Atenção!</b> as ações possuem um limite máximo de cinco reféns.
+                <b>Atenção!</b> As ações possuem um limite máximo de cinco reféns.
                 </S.Paragraph>
              </S.Item>
             </S.List>

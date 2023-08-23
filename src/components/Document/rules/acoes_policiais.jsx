@@ -123,7 +123,7 @@ const rules = [
             <S.List>
              <S.Item>
                 <S.Paragraph>
-                É <b>terminantemente proibida</b> a corrupção por dinheiro, armas e/ou informações (salvo quando sancionado pela <b><i>Alta Classe</i></b>);
+                É <b>terminantemente proibida</b> a corrupção por dinheiro, armas e/ou informações (salvo quando sancionado pela <b><i>Cúpula</i></b>);
                 </S.Paragraph>
              </S.Item>
              <S.Item>

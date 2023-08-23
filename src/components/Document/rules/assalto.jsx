@@ -31,7 +31,7 @@ const rules = [
       {
         content: (
           <>
-            É <b>terminantemente proibido</b> assaltar paramédicos e mecânicos.
+            É <b>terminantemente proibido</b> assaltar paramédicos e mecânicos em serviço.
           </>
         ),
       },

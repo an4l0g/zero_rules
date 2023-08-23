@@ -8,7 +8,7 @@ const rules = [
         content: (
           <>
             Todas as facções e organizações (legais e ilegais) são subordinadas a uma organização que tem autoridade sobre
-            tudo dentro da cidade, cujo nome é <b>Alta Classe</b>.
+            tudo dentro da cidade, cujo nome é <b>Cúpula</b>.
           </>
         ),
       },
