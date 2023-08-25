@@ -62,6 +62,11 @@ const rules = [
       },
       {
         content: (
+          <>Não é permitido fazer rotas e participar de ações de rua utilizando helicóptero.</>
+        ),
+      },
+      {
+        content: (
           <>
             Não é permitido participar de uma ação de rua estando em um veículo
             com mais pessoas do que a capacidade do automóvel.{" "}
@@ -123,6 +128,8 @@ const rules = [
               <S.Item><S.Paragraph>O limite máximo de membros da facção ou organização é 15 pessoas;</S.Paragraph></S.Item>
               <S.Item><S.Paragraph>O intuito principal da invasão é o <b>resgate</b> e ele deve ser priorizado;</S.Paragraph></S.Item>
               <S.Item><S.Paragraph>Caso o ilegal decida tentar o resgate, a reanimação por parte da equipe do Centro Médico Zero é vedada e os mortos devem <b>"ir de "E"</b>.</S.Paragraph></S.Item>
+              <S.Item><S.Paragraph>Caso a invasão ao departamento policial fracasse, a facção ou organização poderá solicitar apoio à Cúpula. A intervenção da Cúpula poderá ter altos
+              custos, caberá aos membros da facção ou organização escolher se vale apena resgatar seus líderes ou não.</S.Paragraph></S.Item>
             </S.List>
           </>,
         ],

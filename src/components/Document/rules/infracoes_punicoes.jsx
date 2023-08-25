@@ -8,7 +8,7 @@ const rules = [
         content: (
           <>
             <b>Power Gaming (PG): </b> é a prática de abusar das mecânicas e
-            bugs do jogo para se beneficiar ou adquirir vantagem sobre o
+            bugs do jogo para se beneficiar ou adquirir vantagens sobre o
             adversário. <b>Exemplos:</b>
           </>
         ),

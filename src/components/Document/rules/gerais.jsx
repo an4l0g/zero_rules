@@ -201,7 +201,7 @@ const rules = [
       {
         content: (
           <>
-            Ao entrar na área residencial de outro cidadão, sem a devida permissão dada pelo dono da resdiência, o invasor está sujeito a ser alvejado.
+            Ao entrar na área residencial de outro cidadão, sem a devida permissão dada pelo dono da residência, o invasor está sujeito a ser alvejado.
           </>
         ),
       },
@@ -216,8 +216,15 @@ const rules = [
       {
         content: (
           <>
+            É <b>proibido</b> realizar qualquer ação ilegal utilizando veículos de trabalhos legais.
+          </>
+        ),
+      },
+      {
+        content: (
+          <>
             Ao entrar em qualquer emprego legal da cidade (polícia, hospital ou mecânica), o player assina um contrato de permanência de, no mínimo, 30 dias.
-            Caso decida quebrar o contrato de permanência, o player estará sujeito a uma multa de R$100.000,00 e 1440 (24 horas) no <b>manicômio</b> da cidade.
+            Caso decida quebrar o contrato de permanência, o player estará sujeito a uma multa de R$100.000,00 e 1440 meses (24 horas) no <b>manicômio</b> da cidade.
           </>
         ),
       },
