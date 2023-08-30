@@ -55,6 +55,13 @@ const rules = [
           </>
         ),
       },
+      {
+        content: (
+          <>
+            Não é permitido o roubo/furto de veículos nos blips de rotas.
+          </>
+        ),
+      },
     ],
   },
 ];
