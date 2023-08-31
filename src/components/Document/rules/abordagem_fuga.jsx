@@ -89,6 +89,13 @@ const rules = [
             </>
           ),
         },
+        {
+          content: (
+            <>
+              Durante uma fuga, caso a polícia perca os meliantes de vista por 5 ou mais minutos, fica proibido o retorno do acompanhamento.
+            </>
+          ),
+        },
       ],
     },
   ];
