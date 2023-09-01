@@ -85,6 +85,13 @@ const rules = [
         {
           content: (
             <>
+              É proibido o uso de taser de dentro da viatura.
+            </>
+          ),
+        },
+        {
+          content: (
+            <>
               O uso de arma de fogo, por meio das forças policiais, poderá ser utilizado caso o fugitivo puxe alguma arma. Fora deste caso, somente está liberado o uso do taser, seguindo o <b><i>item 9.11</i></b>.
             </>
           ),
