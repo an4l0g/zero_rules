@@ -80,7 +80,8 @@ const rules = [
             <S.List>
              <S.Item>
                 <S.Paragraph>
-                É <b>terminantemente proibida</b> a corrupção por dinheiro, medicamentos e/ou informações (salvo quando sancionado pela <b><i>Cúpula</i></b>);
+                É <b>terminantemente proibida</b> a corrupção por dinheiro, medicamentos e/ou informações (salvo quando sancionado pela <b><i>Cúpula</i></b>). Sujeito a
+                PD de personagem <b><i>(item 12)</i></b> para todas as partes envolvidas;
                 </S.Paragraph>
              </S.Item>
              <S.Item>
