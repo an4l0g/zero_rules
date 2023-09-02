@@ -96,6 +96,13 @@ const rules = [
           </>,
         ],
       },
+      {
+        content: (
+          <>
+            É necessário possuir, no mínimo, <b>10 policiais</b> em serviço, para que haja um sequestro.
+          </>
+        ),
+      },
     ],
   },
 ];
