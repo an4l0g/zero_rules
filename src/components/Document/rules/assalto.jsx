@@ -51,6 +51,13 @@ const rules = [
           </>
         ),
       },
+      {
+        content: (
+          <>
+            É proibido assaltar indivíduos em blips de rotas.
+          </>
+        ),
+      },
     ],
   },
 ];
