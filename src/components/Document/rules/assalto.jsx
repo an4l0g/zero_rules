@@ -43,6 +43,14 @@ const rules = [
           </>
         ),
       },
+      {
+        content: (
+          <>
+            Para assaltar alguém, é necessário manter a proporção de 2 para 1. Ou seja, para assaltar uma pessoa,
+            são necessárias duas pessoas.
+          </>
+        ),
+      },
     ],
   },
 ];

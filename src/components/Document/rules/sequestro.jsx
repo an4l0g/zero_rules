@@ -103,6 +103,14 @@ const rules = [
           </>
         ),
       },
+      {
+        content: (
+          <>
+            Para sequestrar alguém, é necessário manter a proporção de 2 para 1. Ou seja, para sequestrar uma pessoa,
+            são necessárias duas pessoas.
+          </>
+        ),
+      },
     ],
   },
 ];
