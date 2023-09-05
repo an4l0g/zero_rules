@@ -240,6 +240,13 @@ const rules = [
           </>
         ),
       },
+      {
+        content: (
+          <>
+            É <b>proibido</b> usar fotos externas na identidade dentro da cidade. As fotos devem ser tiradas dentro da cidade e somente elas podem ser usadas no RG.
+          </>
+        ),
+      },
     ],
   },
 ];
