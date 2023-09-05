@@ -247,6 +247,13 @@ const rules = [
           </>
         ),
       },
+      {
+        content: (
+          <>
+            É <b>proibido</b> usar citzens e/ou mods gráficos que alterem a realidade e física do jogo e da cidade.
+          </>
+        ),
+      },
     ],
   },
 ];
