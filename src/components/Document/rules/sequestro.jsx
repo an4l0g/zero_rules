@@ -111,6 +111,14 @@ const rules = [
           </>
         ),
       },
+      {
+        content: (
+          <>
+            É <b>proibido</b>, levar o sequestrado para locais de ações marcadas (como nióbio, por exemplo). O sequestro
+            deve ser conduzido em locais que não atrapalhem a jogabilidade de outros players.
+          </>
+        ),
+      },
     ],
   },
 ];
